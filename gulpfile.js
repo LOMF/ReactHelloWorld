@@ -4,8 +4,8 @@ var gulp = require('gulp')
     ,sass = require("gulp-sass")
 ;
 
-var src = './source'
-    ,app = './build'
+var src = 'source'
+    ,app = 'build'
 ;
 
 gulp.task('js', function() {
